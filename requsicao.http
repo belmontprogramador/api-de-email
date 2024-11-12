@@ -1,0 +1,8 @@
+POST http://localhost:3005/email2/send-custom-email
+Content-Type: application/json
+
+{
+  "to": "oxstrader@gmail.com",
+  "subject": "Assunto do E-mail",
+  "message": "quem é vc"
+}
