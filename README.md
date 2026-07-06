@@ -22,45 +22,26 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+# API de Email
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-## Installation
+> API de envio de emails transacionais com TypeScript e Node.js. Suporte a templates HTML, anexos e fila de processamento.
 
-```bash
-$ npm install
-```
+🔗 **[GitHub](https://github.com/belmontprogramador/api-de-email)**
 
-## Running the app
+## ✨ Funcionalidades
 
-```bash
-# development
-$ npm run start
+- Envio de emails transacionais
+- Templates HTML customizáveis
+- Suporte a anexos
+- Fila de processamento assíncrono
+- Logs de entrega e falhas
+- Autenticação por token
 
-# watch mode
-$ npm run start:dev
+**Stack:** TypeScript, Node.js, Email, API REST · **Autor:** Felipe Belmont
 
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
