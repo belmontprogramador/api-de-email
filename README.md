@@ -43,12 +43,7 @@
 **Stack:** TypeScript, Node.js, Email, API REST · **Autor:** Felipe Belmont
 
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
+ 
 ## License
 
 Nest is [MIT licensed](LICENSE).
